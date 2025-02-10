@@ -1,0 +1,10 @@
+/* Navbar */
+.navbar {
+    background-color: #999 !important;
+}
+
+/* Content Box */
+.content-box {
+    background-color: #aaa;
+    border-radius: 5px;
+}
